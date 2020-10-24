@@ -1,2 +1,2 @@
 # react-training
-  validatorsummary for products
+  Validation summary component is Added.
